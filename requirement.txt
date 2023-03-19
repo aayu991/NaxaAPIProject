@@ -1,0 +1,5 @@
+pip install python
+pip install django
+pip install rest_framework
+pip install pandas
+
